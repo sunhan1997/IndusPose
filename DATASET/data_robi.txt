@@ -1,0 +1,22 @@
+For all object including (Chrome_screw  DIN_connector DSub_connector Eye_bolt Gear Tube_fitting Zigzag) 
+
+"Scene_1/Scene_2/Scene_3/Scene_6/Scene_7 " are used for pose selection and pose buffer
+
+"Scene_4/Scene_5/Scene_8/Scene_9 " are used for evaluation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
