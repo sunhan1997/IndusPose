@@ -10,7 +10,7 @@ Given as inputs:
 - an RGB image,
 - the intrinsic parameters of the camera,
 - a mesh of the object,
-- a mask of that object in the image (bounding box maybe also ok)
+- a mask of that object in the image (bounding box is also ok)
 
 
 
@@ -18,7 +18,7 @@ Given as inputs:
 
 
 # Installation
-It is east to install this code.
+It is easy to install this code.
 ## 1. Clone the repository
 The first step is to clone the repo and submodules:
 ```
@@ -27,7 +27,7 @@ git clone https://github.com/sunhan1997/IndusPose.git
 ## 2. Install the DepthAnything and GlueStick
 - Install the [[bop_toolkit]](https://github.com/thodan/bop_toolkit) 
 - Install the [[DepthAnything]](https://github.com/LiheYoung/Depth-Anything) and download the Depth-Anything-Large
-- Install the [[gluestick]](https://github.com/TrueCar/gluestick)
+- Install the [[gluestick]](https://github.com/cvg/GlueStick)
 - Install the OT
 ```
 pip install geomloss
